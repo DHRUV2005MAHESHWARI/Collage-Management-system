@@ -14,9 +14,7 @@
 <img width="947" alt="Screenshot 2023-11-25 174906" src="https://github.com/DHRUV2005MAHESHWARI/Collage-Management-system/assets/143800109/832db698-075b-44c1-9ed2-d501827a5f58">
 <br>
 <br>
-![Uploading Screenshot 2023-11-25 174906.png…]()
-<br>
-<br>
+
 <img width="952" alt="Screenshot 2023-11-25 174927" src="https://github.com/DHRUV2005MAHESHWARI/Collage-Management-system/assets/143800109/f351b5ee-c728-4f2b-9893-a510932b257c">
 <br>
 <br>
